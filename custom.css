@@ -15,7 +15,8 @@ td {
 }
 
 .bullet {
-  width: 60%;
+  width: 300px;
+  height: 300px;
   margin-top: -10%;
   font-family: -webkit-body;
   font-size: 14px;
