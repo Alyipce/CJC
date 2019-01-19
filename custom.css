@@ -17,24 +17,6 @@ td .rightstyle {
   padding-top: 5%;
 }
 
-.col-md-6 {
-  width: 100%;
-}
-
-.col-md-12 {
-  width: 100%;
-}
-
-.col-md-12,
-.col-md-6 {
-  float: left;
-}
-
-.col-md-6 {
-  width: 48%;
-  margin: 1%;
-}
-
 .img-responsive {
   display: block;
   height: auto;
