@@ -10,7 +10,6 @@
   background-color: #f1f1f1;
 }
 
-
 .bullet {
   width: 66%;
   margin-top: -18%;
@@ -18,10 +17,10 @@
 
 .left {
     margin-left: 10%;
+    float:right;
 }
 
 .right {
-    float:right;
     margin-right: 10%;
 }
 
