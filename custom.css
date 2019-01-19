@@ -11,17 +11,13 @@
 }
 
 .bullet {
-  width: 66%;
-  margin-top: -18%;
+  width: 60%;
+  margin-top: -15%;
 }
 
 .left {
     margin-right: 10%;
     float:right;
-}
-
-.right {
-    margin-left: 10%;
 }
 
 .img-responsive {
