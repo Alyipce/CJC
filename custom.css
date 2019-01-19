@@ -3,18 +3,16 @@
   padding-top: 10px;
 }
 
-td {
-  width: 50%;
-}
-
 .leftstyle {
   padding-left: 7%;
+  width: 50%;
 }
 
 .rightstyle {
   padding-right: 7%;
   vertical-align: top;
   padding-top: 5%;
+  width: 50%;
 }
 
 .img-responsive {
