@@ -14,13 +14,6 @@ td {
   width: 50%;
 }
 
-.bullet {
-  width: 60%;
-  margin-top: -10%;
-  font-family: -webkit-body;
-  font-size: 14px;
-}
-
 .left {
     margin-right: 10%;
     float:right;
@@ -32,6 +25,13 @@ td {
   width: 300px;
   margin-top: 1%;
   margin-bottom: 1%;
+}
+
+
+.bullet {
+  margin-top: -10%;
+  font-family: -webkit-body;
+  font-size: 14px;
 }
 
 .feature {
