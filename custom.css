@@ -10,6 +10,10 @@
   background-color: #f1f1f1;
 }
 
+td {
+  width: 50%;
+}
+
 .bullet {
   width: 60%;
   margin-top: -10%;
