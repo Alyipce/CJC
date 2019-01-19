@@ -7,11 +7,11 @@ td {
   width: 50%;
 }
 
-td .leftstyle {
+.leftstyle {
   padding-left: 7%;
 }
 
-td .rightstyle {
+.rightstyle {
   padding-right: 7%;
   vertical-align: top;
   padding-top: 5%;
