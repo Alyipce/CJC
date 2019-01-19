@@ -11,8 +11,10 @@
 }
 
 .bullet {
-  width: 60%;
+  width: 70%;
   margin-top: -25%;
+  font-family: -webkit-body;
+  font-size: 14px;
 }
 
 .left {
@@ -31,4 +33,6 @@
 .feature {
   background-color: #f7f3f3;
   padding: 2%;
+  font-family: -webkit-body;
+  font-size: 14px;
 }
