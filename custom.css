@@ -1,33 +1,29 @@
 .panel-body {
-    padding: 15px;
     background-color: #f7f3f3;
 }
 
 .container-custom {
-  /* background: linear-gradient(rgb(245, 236, 245), rgba(241, 241, 241, 1));  */
   padding-top: 10px;
 }
 
-td {
-  width: 50%;
+.right {
+    float:left;
 }
 
 .left {
-    margin-right: 10%;
     float:right;
 }
 
 .img-responsive {
   display: block;
-  height: 250px;
-  width: 250px;
+  height: 300px;
+  width: 300px;
   margin-top: 1%;
   margin-bottom: 1%;
 }
 
 
 .bullet {
-  margin-top: -10%;
   font-family: -webkit-body;
   font-size: 14px;
 }
