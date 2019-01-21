@@ -1,5 +1,5 @@
 .panel-body {
-    background-color: #f7f3f3;
+  background-color: #f7f3f3;
 }
 
 .container-custom {
@@ -7,11 +7,11 @@
 }
 
 .left {
-    float:left;
+  float: left;
 }
 
 .right {
-    float:right;
+  float: right;
 }
 
 .img-responsive {
@@ -25,6 +25,8 @@
 .bullet {
   font-family: -webkit-body;
   font-size: 14px;
+  width: 400px;
+  padding-top: 40px;
 }
 
 .feature {
