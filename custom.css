@@ -1,13 +1,11 @@
+.panel-body {
+    padding: 15px;
+    background-color: #f7f3f3;
+}
+
 .container-custom {
   /* background: linear-gradient(rgb(245, 236, 245), rgba(241, 241, 241, 1)); */
   padding-top: 10px;
-}
-.firstCol{
-  background-color: #f7f3f3;
-}
-
-.secCol{
-  background-color: #f1f1f1;
 }
 
 td {
