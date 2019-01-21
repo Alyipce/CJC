@@ -6,11 +6,11 @@
   padding-top: 10px;
 }
 
-.right {
+.left {
     float:left;
 }
 
-.left {
+.right {
     float:right;
 }
 
@@ -21,7 +21,6 @@
   margin-top: 1%;
   margin-bottom: 1%;
 }
-
 
 .bullet {
   font-family: -webkit-body;
