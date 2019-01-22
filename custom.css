@@ -7,7 +7,7 @@
 }
 
 .img-responsive {
-  height: 300px;
+  height: 230px;
   margin-top: 1%;
   margin-bottom: 1%;
 }
@@ -15,7 +15,7 @@
 .bullet {
   font-family: -webkit-body;
   font-size: 14px;
-  padding-top: 40px;
+  padding-top: 25px;
 }
 
 .feature {
