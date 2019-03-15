@@ -1,5 +1,7 @@
 .panel-body {
   background-color: #f7f3f3;
+  font-family: -webkit-body;
+  font-size: 14px;
 }
 
 .container-custom {
